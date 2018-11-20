@@ -17,6 +17,7 @@ class DBHelper {
   /**
    * Alternative Text as the API server doesn't provide it.
    */
+  
   static getAlternativeText(id) {
     const altTexts = {
       1: "Interior of Mission Chinese Food",

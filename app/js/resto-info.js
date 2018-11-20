@@ -101,7 +101,7 @@ const createMapsStatic = () => {
   let mapsScale = 1;
   const mapsImageFormat = 'jpg';
   // TODO: move the API Key to either environmental variables or config.js
-  const mapsApiKey = `AIzaSyCfMw2lNBHbO5Y3WV374h0gT-cHgzlP2s8`;
+  const mapsApiKey = `AIzaSyB_8oudpd4bcKStGB63OggwAK5Z_TWzkLE`;
   // const imageMapsStatic = document.createElement('img');
   const imageMapsStatic = new Image();
   imageMapsStatic.id = 'static-map';
